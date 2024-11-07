@@ -1,0 +1,23 @@
+{
+  "name": "bloc-de-dibujo-y--un--etch-a-sketch",
+  "version": "1.0.0",
+  "description": "proyecto cuadriculas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJSanchez33/bloc-de-dibujo-y--un--Etch-A-Sketch.git"
+  },
+  "author": "jhon jader sanchez ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJSanchez33/bloc-de-dibujo-y--un--Etch-A-Sketch/issues"
+  },
+  "homepage": "https://github.com/JJSanchez33/bloc-de-dibujo-y--un--Etch-A-Sketch#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
